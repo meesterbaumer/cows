@@ -1,0 +1,20 @@
+{
+  "cows": {
+    "cow1": {
+      "name": "Bessy",
+      "breed": "Jersey",
+      "weight": 600000
+    },
+    "cow2": {
+      "name": "Sue",
+      "breed": "Angus",
+      "weight": 40000
+    },
+    "cow3": {
+      "name": "Harold",
+      "breed": "Jersey2",
+      "weight": 6700000
+    }
+  }
+  
+}
